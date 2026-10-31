@@ -1,7 +1,8 @@
 """Baut die öffentliche Quellenseite des Kanals (GitHub Pages, ErikFink/buddha-und-psychologie).
 
 Eingabe: quellen.json, ein Eintrag pro Beitrag (neuester zuerst angezeigt): Frage, Lehrtexte mit
-Fundstelle und Link, Studien mit Angabe, Kurzbeschreibung und DOI-Link, Bildnachweis.
+Fundstelle und Link, Studien mit Angabe, Kurzbeschreibung und DOI-Link, Bildnachweis; für Hinweise
+auf Podcastfolgen statt Lehrtexten und Studien der Abschnitt „anhoeren“ (Titel, Link, Kurzbeschreibung).
 Ausgabe: index.html und profilbild.png in diesem Ordner, der zugleich das Git-Repository ist.
 
 Nach jedem neuen Beitrag: Eintrag in quellen.json ergänzen, dieses Skript laufen lassen, committen
@@ -69,14 +70,22 @@ def e(t):
 
 def eintrag(b):
     teile = [f'<article>\n  <h2>{e(b["frage"])}</h2>\n  <p class="datum">{e(b["datum"])}</p>']
-    teile.append("  <h3>Lehrtexte</h3>\n  <ul>")
-    for t in b["lehrtexte"]:
-        teile.append(f'    <li><a href="{e(t["link"])}">{e(t["wer"])}, {e(t["titel"])}</a>'
-                     f'<span class="was">{e(t["fundstelle"])} · {e(t["uebersetzung"])}</span></li>')
-    teile.append("  </ul>\n  <h3>Studien</h3>\n  <ul>")
-    for s in b["studien"]:
-        teile.append(f'    <li><a href="{e(s["link"])}">{e(s["angabe"])}</a><span class="was">{e(s["was"])}</span></li>')
-    teile.append("  </ul>")
+    if b.get("lehrtexte"):
+        teile.append("  <h3>Lehrtexte</h3>\n  <ul>")
+        for t in b["lehrtexte"]:
+            teile.append(f'    <li><a href="{e(t["link"])}">{e(t["wer"])}, {e(t["titel"])}</a>'
+                         f'<span class="was">{e(t["fundstelle"])} · {e(t["uebersetzung"])}</span></li>')
+        teile.append("  </ul>")
+    if b.get("studien"):
+        teile.append("  <h3>Studien</h3>\n  <ul>")
+        for s in b["studien"]:
+            teile.append(f'    <li><a href="{e(s["link"])}">{e(s["angabe"])}</a><span class="was">{e(s["was"])}</span></li>')
+        teile.append("  </ul>")
+    if b.get("anhoeren"):   # Beiträge ohne Lehrtext, etwa ein Hinweis auf eine Podcastfolge
+        teile.append("  <h3>Zum Anhören</h3>\n  <ul>")
+        for a in b["anhoeren"]:
+            teile.append(f'    <li><a href="{e(a["link"])}">{e(a["titel"])}</a><span class="was">{e(a["was"])}</span></li>')
+        teile.append("  </ul>")
     if b.get("bilder"):
         teile.append(f'  <p class="bilder">Bilder: {e(b["bilder"])}</p>')
     teile.append("</article>")
