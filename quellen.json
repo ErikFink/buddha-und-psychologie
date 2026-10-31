@@ -37,6 +37,37 @@
   },
   {
     "datum": "2026-11",
+    "frage": "Warum schweifen meine Gedanken ständig ab?",
+    "lehrtexte": [
+      {
+        "wer": "Der Buddha",
+        "titel": "Lehrrede von den Grundlagen der Achtsamkeit (Satipaṭṭhānasutta)",
+        "fundstelle": "Majjhima Nikāya 10, mn10:34.8–9 und mn10:2.1",
+        "uebersetzung": "Übersetzung Sabbamitta (deutsch), Sujato (englisch)",
+        "link": "https://suttacentral.net/mn10/de/sabbamitta"
+      }
+    ],
+    "studien": [
+      {
+        "angabe": "Killingsworth & Gilbert (2010). Science 330, 932.",
+        "was": "Rund 2.250 Erwachsene, per Handy in zufälligen Momenten befragt: Abschweifen in fast jedem zweiten Moment, dann weniger glücklich.",
+        "link": "https://doi.org/10.1126/science.1192439"
+      },
+      {
+        "angabe": "Hasenkamp, Wilson-Mendenhall, Duncan & Barsalou (2012). NeuroImage 59, 750–760.",
+        "was": "14 Meditierende im Hirnscanner: Knopfdruck beim Bemerken des Abschweifens, dabei andere Hirnbereiche aktiv.",
+        "link": "https://doi.org/10.1016/j.neuroimage.2011.07.008"
+      },
+      {
+        "angabe": "Mrazek, Franklin, Phillips, Baird & Schooler (2013). Psychological Science 24, 776–781.",
+        "was": "48 Studierende, per Zufall auf einen zweiwöchigen Achtsamkeits- oder Ernährungskurs verteilt: danach nach eigener Angabe seltener abgeschweift.",
+        "link": "https://doi.org/10.1177/0956797612459659"
+      }
+    ],
+    "bilder": "The Metropolitan Museum of Art, Nr. 37821, 37822, 37827, 41473 (gemeinfrei)."
+  },
+  {
+    "datum": "2026-11",
     "frage": "Wer steht hinter diesem Kanal?",
     "anhoeren": [
       {
