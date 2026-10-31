@@ -76,5 +76,98 @@
         "link": "https://open.spotify.com/episode/2TpUUN74fJdoInO9L781Kr"
       }
     ]
+  },
+  {
+    "datum": "2026-11",
+    "frage": "Warum fühle ich mich allein, obwohl ich unter Menschen bin?",
+    "lehrtexte": [
+      {
+        "wer": "Lama Tilmann Lhündrup",
+        "titel": "Vortrag „Umgehen mit Schwierigkeiten“, Möhra 2016",
+        "fundstelle": "Abschrift S. 7 und 8",
+        "uebersetzung": "deutsches Original",
+        "link": "https://ekayana.s3.eu-central-1.amazonaws.com/_public_zip/Text/Umgehen.mit.Schwierigkeiten_Lama.Lhundrup_Deutsch_2016.zip"
+      }
+    ],
+    "studien": [
+      {
+        "angabe": "Hawkley & Cacioppo (2010). Annals of Behavioral Medicine 40, 218–227.",
+        "was": "Überblicksartikel: Einsamkeit ist das Gefühl fehlender Verbindung, nicht bloßes Alleinsein; sie macht wachsamer für Bedrohungen im Umgang mit anderen.",
+        "link": "https://doi.org/10.1007/s12160-010-9210-8"
+      },
+      {
+        "angabe": "Masi, Chen, Hawkley & Cacioppo (2011). Personality and Social Psychology Review 15, 219–266.",
+        "was": "Meta-Analyse von Angeboten gegen Einsamkeit: Unter den Studien mit Losverfahren wirkte die Arbeit an ungünstigen Denkmustern im Umgang mit anderen am besten.",
+        "link": "https://doi.org/10.1177/1088868310377394"
+      },
+      {
+        "angabe": "Lindsay, Young, Brown, Smyth & Creswell (2019). PNAS 116, 3488–3493.",
+        "was": "153 Erwachsene, per Los verteilt, 14 Lektionen am Handy: Beobachten und Annehmen senkte die Einsamkeit im Alltag um 22 % und brachte zwei Begegnungen mehr pro Tag.",
+        "link": "https://doi.org/10.1073/pnas.1813588116"
+      }
+    ],
+    "bilder": "The Metropolitan Museum of Art, Nr. 37823 (gemeinfrei)."
+  },
+  {
+    "datum": "2026-11",
+    "frage": "Warum trifft Kritik so tief?",
+    "lehrtexte": [
+      {
+        "wer": "Der Buddha",
+        "titel": "Dhammapada, Verse 227 und 228 (Geschichte von Atula)",
+        "fundstelle": "dhp227:1–dhp228:4",
+        "uebersetzung": "Übersetzung Sabbamitta (deutsch), Sujato (englisch)",
+        "link": "https://suttacentral.net/dhp221-234/de/sabbamitta"
+      }
+    ],
+    "studien": [
+      {
+        "angabe": "Rotge u. a. (2015). Social Cognitive and Affective Neuroscience 10, 19–27.",
+        "was": "Meta-Analyse, 46 Hirnscanner-Studien, 940 Personen: Ausschluss, Zurückweisung und negative Bewertung aktivieren den vorderen Gürtelcortex.",
+        "link": "https://doi.org/10.1093/scan/nsu110"
+      },
+      {
+        "angabe": "Woo u. a. (2014). Nature Communications 5, 5380.",
+        "was": "60 Personen: Zurückweisung (Fotos früherer Partner) und Hitzeschmerz zeigen getrennte Muster der Hirnaktivität.",
+        "link": "https://doi.org/10.1038/ncomms6380"
+      },
+      {
+        "angabe": "Leary, Tate, Adams, Allen & Hancock (2007). Journal of Personality and Social Psychology 92, 887–904.",
+        "was": "Fünf Studien zu Selbstmitgefühl: weniger schlechte Gefühle nach zwiespältiger Rückmeldung; strengere Selbstbewertung bei wenig Selbstmitgefühl.",
+        "link": "https://doi.org/10.1037/0022-3514.92.5.887"
+      }
+    ],
+    "bilder": "The Metropolitan Museum of Art, Nr. 75274 (gemeinfrei)."
+  },
+  {
+    "datum": "2026-11",
+    "frage": "Warum vergleiche ich mich ständig mit anderen?",
+    "lehrtexte": [
+      {
+        "wer": "Der Buddha",
+        "titel": "Lehrrede „Mit Soṇa“ (Soṇasutta)",
+        "fundstelle": "Saṃyutta Nikāya 22.49, sn22.49:2.1–2.4 und 3.1–3.4",
+        "uebersetzung": "Übersetzung Sabbamitta (deutsch), Sujato (englisch)",
+        "link": "https://suttacentral.net/sn22.49/de/sabbamitta"
+      }
+    ],
+    "studien": [
+      {
+        "angabe": "Gerber, Wheeler & Suls (2018). Psychological Bulletin 144, 177–197.",
+        "was": "Meta-Analysen aus über 60 Jahren: Vorliebe für Vergleiche nach oben; danach meist schlechtere Selbsteinschätzung.",
+        "link": "https://doi.org/10.1037/bul0000127"
+      },
+      {
+        "angabe": "McCarthy & Morina (2020). Clinical Psychology & Psychotherapy 27, 640–671.",
+        "was": "Übersicht und Meta-Analyse (14 Studien): Zusammenhang zwischen Selbsteinschätzung im Vergleich und Depression oder Angst.",
+        "link": "https://doi.org/10.1002/cpp.2452"
+      },
+      {
+        "angabe": "Neff & Vonk (2009). Journal of Personality 77, 23–50.",
+        "was": "Befragung von 2.187 Menschen: Selbstmitgefühl hängt mit seltenerem Vergleichen und stabilerem Selbstwert zusammen.",
+        "link": "https://doi.org/10.1111/j.1467-6494.2008.00537.x"
+      }
+    ],
+    "bilder": "The Metropolitan Museum of Art, Nr. 78194 (gemeinfrei)."
   }
 ]
