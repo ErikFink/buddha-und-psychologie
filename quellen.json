@@ -1,0 +1,38 @@
+[
+  {
+    "datum": "2026-11",
+    "frage": "Lässt sich Mitgefühl üben?",
+    "lehrtexte": [
+      {
+        "wer": "Der Buddha",
+        "titel": "Lehrrede vom Gleichnis vom Tuch (Vatthasutta)",
+        "fundstelle": "Majjhima Nikāya 7, mn7:14.1",
+        "uebersetzung": "Übersetzung Sabbamitta (deutsch), Sujato (englisch)",
+        "link": "https://suttacentral.net/mn7/de/sabbamitta"
+      }
+    ],
+    "studien": [
+      {
+        "angabe": "Kirby, Tellegen & Steindl (2017). Behavior Therapy 48, 778–792.",
+        "was": "Meta-Analyse, 21 kontrollierte Studien, 1.285 Personen: Mitgefühlstraining und Mitgefühl, Selbstmitgefühl, Niedergeschlagenheit, Angst.",
+        "link": "https://doi.org/10.1016/j.beth.2017.06.003"
+      },
+      {
+        "angabe": "Klimecki, Leiberg, Ricard & Singer (2014). Social Cognitive and Affective Neuroscience 9, 873–879.",
+        "was": "Empathie- und Mitgefühlstraining im Vergleich: Gefühle und Hirnaktivität beim Anblick von Leid.",
+        "link": "https://doi.org/10.1093/scan/nst060"
+      },
+      {
+        "angabe": "Klimecki, Leiberg, Lamm & Singer (2013). Cerebral Cortex 23, 1552–1561.",
+        "was": "Positive Gefühle und veränderte Hirnaktivität nach Mitgefühlstraining.",
+        "link": "https://doi.org/10.1093/cercor/bhs142"
+      },
+      {
+        "angabe": "Weng u. a. (2013). Psychological Science 24, 1171–1180.",
+        "was": "Kurzes Mitgefühlstraining und Hilfsbereitschaft in einem Experiment.",
+        "link": "https://doi.org/10.1177/0956797612469537"
+      }
+    ],
+    "bilder": "The Metropolitan Museum of Art (gemeinfrei); US National Park Service über Wikimedia Commons (gemeinfrei)."
+  }
+]
