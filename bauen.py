@@ -86,6 +86,11 @@ def eintrag(b):
         for a in b["anhoeren"]:
             teile.append(f'    <li><a href="{e(a["link"])}">{e(a["titel"])}</a><span class="was">{e(a["was"])}</span></li>')
         teile.append("  </ul>")
+    if b.get("weitere"):   # Sachangaben ohne Studie, etwa UNESCO bei Ort-Beiträgen
+        teile.append("  <h3>Weitere Quellen</h3>\n  <ul>")
+        for w in b["weitere"]:
+            teile.append(f'    <li><a href="{e(w["link"])}">{e(w["titel"])}</a><span class="was">{e(w["was"])}</span></li>')
+        teile.append("  </ul>")
     if b.get("bilder"):
         teile.append(f'  <p class="bilder">Bilder: {e(b["bilder"])}</p>')
     teile.append("</article>")

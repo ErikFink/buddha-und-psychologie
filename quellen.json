@@ -169,5 +169,33 @@
       }
     ],
     "bilder": "The Metropolitan Museum of Art, Nr. 78194 (gemeinfrei)."
+  },
+  {
+    "datum": "2026-11",
+    "frage": "Wo erwachte der Buddha?",
+    "lehrtexte": [
+      {
+        "wer": "Der Buddha",
+        "titel": "Mittlere Lehrreden 26, Die edle Suche (Pāsarāsisutta)",
+        "fundstelle": "Majjhima Nikāya 26, mn26:17.2–17.7",
+        "uebersetzung": "Übersetzung Sabbamitta (deutsch), Sujato (englisch)",
+        "link": "https://suttacentral.net/mn26/de/sabbamitta"
+      },
+      {
+        "wer": "Bericht über den Buddha",
+        "titel": "Innige Sprüche 1.1, Beim Erwachen (Paṭhamabodhisutta)",
+        "fundstelle": "Udāna 1.1, ud1.1:1.2–1.3",
+        "uebersetzung": "Übersetzung Sabbamitta (deutsch), Sujato (englisch)",
+        "link": "https://suttacentral.net/ud1.1/de/sabbamitta"
+      }
+    ],
+    "weitere": [
+      {
+        "titel": "UNESCO-Welterbeliste Nr. 1056: Mahabodhi Temple Complex at Bodh Gaya",
+        "was": "Rund 50 m hoch, aus Ziegeln, 5. bis 6. Jahrhundert, Welterbe seit 2002.",
+        "link": "https://whc.unesco.org/en/list/1056/"
+      }
+    ],
+    "bilder": "eigene Fotos von Erik Fink, Bodhgaya, Februar 2024."
   }
 ]
