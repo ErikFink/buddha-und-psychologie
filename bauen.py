@@ -10,6 +10,7 @@ und pushen (`git -C Instagram\\quellenseite push`).
 Aufruf: .venv\\Scripts\\python.exe Instagram\\quellenseite\\bauen.py
 """
 
+import hashlib
 import html
 import json
 from pathlib import Path
@@ -100,7 +101,10 @@ def eintrag(b):
 def main():
     beitraege = json.loads((HIER / "quellen.json").read_text(encoding="utf-8"))
     beitraege.sort(key=lambda b: b["datum"], reverse=True)
-    seite = KOPF + "\n".join(eintrag(b) for b in beitraege) + "\n" + FUSS
+    # Versionsangabe am Bild, damit Browser nach einem neuen Profilbild nicht das alte aus dem Cache zeigen
+    version = hashlib.sha1(PROFILBILD.read_bytes()).hexdigest()[:8]
+    kopf = KOPF.replace('src="profilbild.png"', f'src="profilbild.png?v={version}"')
+    seite = kopf + "\n".join(eintrag(b) for b in beitraege) + "\n" + FUSS
     (HIER / "index.html").write_text(seite, encoding="utf-8")
     Image.open(PROFILBILD).convert("RGB").resize((240, 240), Image.LANCZOS).save(HIER / "profilbild.png")
     print("fertig:", len(beitraege), "Beiträge")
