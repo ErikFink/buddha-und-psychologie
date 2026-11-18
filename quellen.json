@@ -172,6 +172,37 @@
   },
   {
     "datum": "2026-11",
+    "frage": "Warum bin ich so streng mit mir selbst?",
+    "lehrtexte": [
+      {
+        "wer": "Der Buddha",
+        "titel": "Lehrrede „Mit Soṇa“ (Soṇasutta), Gleichnis von der Harfe",
+        "fundstelle": "Aṅguttara Nikāya 6.55, an6.55:1.5–7.1",
+        "uebersetzung": "Übersetzung Sabbamitta (deutsch), Sujato (englisch)",
+        "link": "https://suttacentral.net/an6.55/de/sabbamitta"
+      }
+    ],
+    "studien": [
+      {
+        "angabe": "Breines & Chen (2012). Personality and Social Psychology Bulletin 38, 1133–1143.",
+        "was": "Vier Experimente: Nach einem Misserfolg lernten Menschen, die freundlich mit sich umgehen sollten, länger für einen schweren Test.",
+        "link": "https://doi.org/10.1177/0146167212445599"
+      },
+      {
+        "angabe": "Wakelin, Perman & Simonds (2022). Clinical Psychology & Psychotherapy 29, 1–25.",
+        "was": "Meta-Analyse, 19 randomisierte Studien, 1.350 Personen: Übungen in Selbstmitgefühl verringerten Selbstkritik im Mittel mäßig stark; Studien von mäßiger Qualität.",
+        "link": "https://doi.org/10.1002/cpp.2586"
+      },
+      {
+        "angabe": "Curran & Hill (2019). Psychological Bulletin 145, 410–429.",
+        "was": "Meta-Analyse, 164 Stichproben, 41.641 Studierende: Perfektionismus nahm von 1989 bis 2016 zu.",
+        "link": "https://doi.org/10.1037/bul0000138"
+      }
+    ],
+    "bilder": "The Metropolitan Museum of Art, Nr. 38052 (gemeinfrei)."
+  },
+  {
+    "datum": "2026-11",
     "frage": "Wo erwachte der Buddha?",
     "lehrtexte": [
       {
