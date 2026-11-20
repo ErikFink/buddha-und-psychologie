@@ -203,6 +203,37 @@
   },
   {
     "datum": "2026-11",
+    "frage": "Warum bin ich nach dem Scrollen leer?",
+    "lehrtexte": [
+      {
+        "wer": "Der Buddha",
+        "titel": "Lehrrede „Assutavāsutta“, Gleichnis vom Affen im Wald",
+        "fundstelle": "Saṁyutta Nikāya 12.61, sn12.61:4.2–4.3",
+        "uebersetzung": "Übersetzung Sabbamitta (deutsch), Sujato (englisch)",
+        "link": "https://suttacentral.net/sn12.61/de/sabbamitta"
+      }
+    ],
+    "studien": [
+      {
+        "angabe": "Verduyn u. a. (2015). Journal of Experimental Psychology: General 144, 480–488.",
+        "was": "Zwei Studien, im Labor und im Alltag: Facebook nur anschauen statt selbst schreiben senkte die Stimmung, im Alltag über mehr Neid.",
+        "link": "https://doi.org/10.1037/xge0000057"
+      },
+      {
+        "angabe": "Lambert u. a. (2022). Cyberpsychology, Behavior, and Social Networking 25, 287–293.",
+        "was": "Randomisierte Studie, 154 Erwachsene: Eine Woche ohne Instagram, Facebook, Twitter und TikTok verbesserte das Wohlbefinden und verringerte Niedergeschlagenheit und Angst.",
+        "link": "https://doi.org/10.1089/cyber.2021.0324"
+      },
+      {
+        "angabe": "Fassi u. a. (2024). JAMA Pediatrics 178, 814–822.",
+        "was": "Meta-Analyse, 143 Studien mit Jugendlichen: Zeit in sozialen Medien und Angst oder Niedergeschlagenheit hängen nur schwach zusammen; Ursache und Folge bleiben offen.",
+        "link": "https://doi.org/10.1001/jamapediatrics.2024.2078"
+      }
+    ],
+    "bilder": "The Metropolitan Museum of Art, Nr. 69964 (gemeinfrei)."
+  },
+  {
+    "datum": "2026-11",
     "frage": "Wo erwachte der Buddha?",
     "lehrtexte": [
       {
