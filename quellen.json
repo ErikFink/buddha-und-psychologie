@@ -203,6 +203,20 @@
   },
   {
     "datum": "2026-11",
+    "frage": "Innehalten statt weiterscrollen? (Atemübung)",
+    "lehrtexte": [
+      {
+        "wer": "Der Buddha",
+        "titel": "Lehrrede „Ānāpānassatisutta“, Achtsamkeit auf den Atem",
+        "fundstelle": "Majjhima Nikāya 118, mn118:17.2 (Zitat), mn118:18.1–21.4 und 24.1–27 (vier Bereiche)",
+        "uebersetzung": "Übersetzung Sabbamitta (deutsch), Sujato (englisch); die vier Schritte im Video sind frei in Alltagssprache übertragen",
+        "link": "https://suttacentral.net/mn118/de/sabbamitta"
+      }
+    ],
+    "bilder": "The Metropolitan Museum of Art, Nr. 69964 (gemeinfrei). Lotos und Wasser: eigene 3D-Szene (Blender)."
+  },
+  {
+    "datum": "2026-11",
     "frage": "Warum bin ich nach dem Scrollen leer?",
     "lehrtexte": [
       {
