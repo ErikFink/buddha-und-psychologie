@@ -203,6 +203,27 @@
   },
   {
     "datum": "2026-11",
+    "frage": "Warum fällt mir Nein-Sagen so schwer?",
+    "lehrtexte": [
+      {
+        "wer": "Der Buddha",
+        "titel": "Lehrrede „Mit dem Prinzen Abhaya“ (Abhayarājakumārasutta)",
+        "fundstelle": "Majjhima Nikāya 58, mn58:6.13–8.8, gekürzt",
+        "uebersetzung": "Übersetzung Sabbamitta (deutsch), Sujato (englisch)",
+        "link": "https://suttacentral.net/mn58/de/sabbamitta"
+      }
+    ],
+    "studien": [
+      {
+        "angabe": "Givi & Kirk (2024). Journal of Personality and Social Psychology 126, 1103–1115.",
+        "was": "Mehrere Versuche zu Einladungen zu Freizeitaktivitäten: Wer absagt, überschätzt den Ärger der Einladenden und wie sehr sie auf das Nein selbst achten.",
+        "link": "https://doi.org/10.1037/pspi0000443"
+      }
+    ],
+    "bilder": "The Metropolitan Museum of Art, Nr. 856163 (gemeinfrei)."
+  },
+  {
+    "datum": "2026-11",
     "frage": "Innehalten statt weiterscrollen? (Atemübung)",
     "lehrtexte": [
       {
